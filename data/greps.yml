@@ -1,0 +1,21 @@
+Greps:
+- regexp: 摸摸Arisa|Arisa摸摸
+  message: mufumufu，好舒服[CQ:face,id=66][CQ:face,id=305]
+- regexp: Arisa.*爱你|爱你.*Arisa
+  message: 莎莎也爱你哦[CQ:face,id=66][CQ:face,id=319]
+- regexp: ^Arisa$
+  message: 我在呢[CQ:face,id=66]
+- regexp: ^地鼠哥哥$
+  message: 地鼠哥哥
+- regexp: ^原神$
+  message: 我超，原批
+- regexp: Arisa.*健康
+  message: |-
+    不用担心错过健康信息上报的时间了
+    早上填体温网址：https://e-report.neu.edu.cn/inspection/items/1/records/create
+    中午填体温网址：https://e-report.neu.edu.cn/inspection/items/2/records/create
+    下午填体温网址：https://e-report.neu.edu.cn/inspection/items/3/records/create
+- regexp: 谁.*的Arisa
+  message: "[CQ:at,qq=3465287429]"
+- regexp: Arisa叫所有人出来
+  message: "[CQ:at,qq=all]"

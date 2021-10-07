@@ -1,0 +1,24 @@
+Master: 3465287429
+BadGirl:
+  white:
+  - 740228215
+  - 1004748451
+  - 575220453
+BotConfig:
+  host: 127.0.0.1
+  port: 5700
+  post: 5710
+GrepTalk:
+  path: ./data/greps.yml
+Setu:
+  white:
+  - 740228215
+Pixiv:
+  white:
+  - 740228215
+MOOC:
+  path: ./data/mooc.json
+Quotation:
+  path: ./data/quotation.json
+JSpermit:
+- 3465287429

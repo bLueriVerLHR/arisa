@@ -1,24 +1,25 @@
-package main
+package plugins
 
 import (
+	"arisa/tools"
 	"io/ioutil"
 	"net/http"
 )
 
-func chp() string {
+func Chp() string {
 	response, err := http.Get("https://chp.shadiao.app/api.php")
-	CheckError(err)
+	tools.Check(err)
 	defer response.Body.Close()
 	body, err := ioutil.ReadAll(response.Body)
-	CheckError(err)
+	tools.Check(err)
 	return string(body)
 }
 
-func nmsl() string {
+func Nmsl() string {
 	response, err := http.Get("https://nmsl.shadiao.app/api.php?level=min&lang=zh_cn")
-	CheckError(err)
+	tools.Check(err)
 	defer response.Body.Close()
 	body, err := ioutil.ReadAll(response.Body)
-	CheckError(err)
+	tools.Check(err)
 	return string(body)
 }

@@ -1,11 +1,27 @@
-package main
+package plugins
 
 import (
+	"arisa/tools"
 	"encoding/json"
 	"io/ioutil"
 	"net/http"
 	"regexp"
 )
+
+type OneLang struct {
+	ID         int    `json:"id"`
+	UUID       string `json:"uuid"`
+	Hitokoto   string `json:"hitokoto"`
+	Type       string `json:"type"`
+	From       string `json:"from"`
+	FromWho    string `json:"from_who"`
+	Creator    string `json:"creator"`
+	CreatorUID int    `json:"creator_uid"`
+	Reviewer   int    `json:"reviewer"`
+	CommitFrom string `json:"commit_from"`
+	CreatedAt  string `json:"created_at"`
+	Length     int    `json:"length"`
+}
 
 func OneSentence(typeName string) OneLang {
 	if regexp.MustCompile(`动画`).Match([]byte(typeName)) {
@@ -36,12 +52,12 @@ func OneSentence(typeName string) OneLang {
 		typeName = "d"
 	}
 	response, err := http.Get("https://v1.hitokoto.cn/?c=" + typeName)
-	CheckError(err)
+	tools.Check(err)
 	defer response.Body.Close()
 	body, err := ioutil.ReadAll(response.Body)
-	CheckError(err)
+	tools.Check(err)
 	var ol OneLang
 	err = json.Unmarshal(body, &ol)
-	CheckError(err)
+	tools.Check(err)
 	return ol
 }

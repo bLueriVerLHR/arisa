@@ -1,0 +1,67 @@
+{
+    "List": [{
+        "qq": 3465287429,
+        "cookie": "NTESSTUDYSI=611cdb9874ff4bc09ac651a6af046e98; Domain=icourse163.org; Path=/;EDUWEBDEVICE=7be883f8922a411cb9dddd424dc7f9ae; Domain=icourse163.org; Expires=Fri, 02-Oct-2026 09:52:59 GMT; Path=/;STUDY_INFO=\"yd.acaa083f2a1042958@163.com|8|1444675057|1633254779085\"; Version=1; Domain=icourse163.org; Path=/;STUDY_SESS=\"eYheMVQRY5RcMivEGlLTvRpiJeCoJXr1qStnvEgUu2kpkvTpPz+UaZwemdXMC88Ahxtibr+pKUs5DpG7sa9lbF8h+aSTMJ4Mn2KrbkicYVRtCxwVzZlxSkEnb2g6nV0F0Qwp6xsX+A44l7pI5Uf/WIEY7Dl7yM74hy8lI1hHY+cLhur2Nm2wEb9HcEikV+3FTI8+lZKyHhiycNQo+g+/oA==\";Domain=icourse163.org;Path=/; HttpOnly;STUDY_PERSIST=\"uEMM6mqst9XATfpIAntcJXUQrYYUSB4qyZDdb2QDslMZU/1jUWtHi1HZuCIu9bVSvMFat+O4UQC7/4Myis+khSy9EiLG++u6l1LM52h4RhU9BUUwqkowab/hH3mD30KL/ulPM9f6bbr/OHGGxE3Q6KnIW1rh46DOCr94hYADddetk7x/s6n9FHJx0CqxlzwweFJEajTFCeGk8MyV6yv/Jq1v50mT9Ja9SZpY7g6qJlnZgpjCC7Iso4RP9U87vJE8LtaQzUT1ovP2MqtW5+L3Hw+PvH8+tZRDonbf7gEH7JU=\";Domain=icourse163.org;Path=/;Max-Age=2592000; HttpOnly;NETEASE_WDA_UID=1444675057#|#1601186919448; Domain=icourse163.org; Path=/;",
+        "lesson": [{
+            "name": "occupy",
+            "termId": "0",
+            "classId": "0"
+        }, {
+            "name": "数据科学基础（Matlab）",
+            "termId": "1465298442",
+            "classId": "1461807175"
+        }, {
+            "name": "高级语言程序设计",
+            "termId": "1465143460",
+            "classId": "1002123005"
+        }, {
+            "name": "概率论与数理统计",
+            "termId": "1465215445",
+            "classId": "1002822009"
+        }, {
+            "name": "复变函数与积分变换",
+            "termId": "1465301447",
+            "classId": "1001638003"
+        }]
+    }, {
+        "qq": 1255765647,
+        "cookie": "NTESSTUDYSI=0c9d092f7b234406b98bad0a280bf73a; Domain=icourse163.org; Path=/;EDUWEBDEVICE=6826ea55226a4680803f80876dbe7449; Domain=icourse163.org; Expires=Fri, 02-Oct-2026 09:42:19 GMT; Path=/;STUDY_INFO=\"yd.ad3bad63594f4af0b@163.com|8|1485419583|1633254139963\"; Version=1; Domain=icourse163.org; Path=/;STUDY_SESS=\"hkMJrf93vkN22+iYitkpi0d8PxvEWg2d6INpLIs5zRl8fmcFiohAbs+PxtYmiCjVfq23NXsApj7FOVtt/X0W9a3AZHTieYnXp06g7BwzxOyn/Kvj/p/+joio7cmSrey0bq9rpj29U9Apaubs+7BF7T4LFao++Pt2+/dFChiXEPwLhur2Nm2wEb9HcEikV+3FTI8+lZKyHhiycNQo+g+/oA==\";Domain=icourse163.org;Path=/; HttpOnly;STUDY_PERSIST=\"0aOzMdQaq9mZ813YZP7O8mBPXkMtLi9+IDVrO3QFWqbfr22aqp0U+mBY5pXeeLgrjQ+3sjD0Ept/z/kAFxVDg7cwEDqmbf3hxJja33qTpzf/G3LPdeWJoxvCgVWcCMiAKL156F1chJDNpw/9TSd4SJemSSZqCSbvaRyYgSCYnmsu/qz6ofVzrmFw4EF1fkb42BLq3usBgwc7M3UUSuDwuaK++74qAycx9Z2a9SDtNLPZgpjCC7Iso4RP9U87vJE8LtaQzUT1ovP2MqtW5+L3Hw+PvH8+tZRDonbf7gEH7JU=\";Domain=icourse163.org;Path=/;Max-Age=2592000; HttpOnly;NETEASE_WDA_UID=1485419583#|#1632616710778; Domain=icourse163.org; Path=/;",
+        "lesson": [{
+            "name": "occupy",
+            "termId": "0",
+            "classId": "0"
+        }, {
+            "name": "Java程序设计",
+            "termId": "1465413482",
+            "classId": "1205915818"
+        }, {
+            "name": "轮滑基础教程",
+            "termId": "1465382480",
+            "classId": "1003242021"
+        }, {
+            "name": "轮滑高级教程",
+            "termId": "1465408475",
+            "classId": "1206324801"
+        }]
+    }, {
+        "qq": 1292155683,
+        "cookie": "NTESSTUDYSI=89cfe4f0d8e44100b7d5dd36f088741c; Domain=icourse163.org; Path=/;EDUWEBDEVICE=5e7a11ae48f147cfbfb8f7db265e571c; Domain=icourse163.org; Expires=Fri, 02-Oct-2026 16:46:47 GMT; Path=/;STUDY_INFO=\"yd.167ce1328bd249628@163.com|8|1444658828|1633279607895\"; Version=1; Domain=icourse163.org; Path=/;STUDY_SESS=\"F31Csgtv70xJ602iYKjxBnIX4zn52l2Kx1y14zX2gSopkvTpPz+UaZwemdXMC88A6lsDQYreOqrc6HR4wpxnaNz2WvQ448u0vYii5rRtwQc4bIcrKORXzqz0eH98DeIlc1f/2aUJ6848SYbgKMnT5P7EBDP+NB+Xkx3h+NluTLcLhur2Nm2wEb9HcEikV+3FTI8+lZKyHhiycNQo+g+/oA==\";Domain=icourse163.org;Path=/; HttpOnly;STUDY_PERSIST=\"PNSUKT1LisqG69K+TxPkjPtonirnwotk9wkELFw1C3Ew8x8lJcrSnGB+YbVqkSEtvMFat+O4UQC7/4Myis+khTINUEYI7ySp4qIiuPjeKKjPev2AZeqgtKVFS89u0etWw1wE5EaNqPjK2+GDhLCbwW1WsEYJUPZET/Kro0vsxIrTn+jg/MGnK3JD4WDc45pxD5aoiFMbdaM1EcXg5U3a4Gs6Lp/HiWOL1A0XWWlwGVnZgpjCC7Iso4RP9U87vJE8LtaQzUT1ovP2MqtW5+L3Hw+PvH8+tZRDonbf7gEH7JU=\";Domain=icourse163.org;Path=/;Max-Age=2592000; HttpOnly;NETEASE_WDA_UID=1444658828#|#1601165237095; Domain=icourse163.org; Path=/;",
+        "lesson": [{
+            "name": "occupy",
+            "termId": "0",
+            "classId": "0"
+        }, {
+            "name": "数据科学基础（Matlab）",
+            "termId": "1465298442",
+            "classId": "1461807175"
+        }, {
+            "name": "Java程序设计",
+            "termId": "1465413482",
+            "classId": "1205915818"
+        }, {
+            "name": "概率论与数理统计",
+            "termId": "1465215445",
+            "classId": "1002822009"
+        }]
+    }]
+}
